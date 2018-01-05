@@ -1,0 +1,10 @@
+c:\Users\sandro.reis\Desktop\array\after\bin\Debug\netcoreapp2.0\after.deps.json
+c:\Users\sandro.reis\Desktop\array\after\bin\Debug\netcoreapp2.0\after.runtimeconfig.json
+c:\Users\sandro.reis\Desktop\array\after\bin\Debug\netcoreapp2.0\after.runtimeconfig.dev.json
+c:\Users\sandro.reis\Desktop\array\after\bin\Debug\netcoreapp2.0\after.dll
+c:\Users\sandro.reis\Desktop\array\after\bin\Debug\netcoreapp2.0\after.pdb
+c:\Users\sandro.reis\Desktop\array\after\obj\Debug\netcoreapp2.0\after.csproj.CoreCompileInputs.cache
+c:\Users\sandro.reis\Desktop\array\after\obj\Debug\netcoreapp2.0\after.AssemblyInfoInputs.cache
+c:\Users\sandro.reis\Desktop\array\after\obj\Debug\netcoreapp2.0\after.AssemblyInfo.cs
+c:\Users\sandro.reis\Desktop\array\after\obj\Debug\netcoreapp2.0\after.dll
+c:\Users\sandro.reis\Desktop\array\after\obj\Debug\netcoreapp2.0\after.pdb
